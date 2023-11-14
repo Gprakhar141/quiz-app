@@ -1,6 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import mongoose from 'mongoose';
+//import bcrypt from 'bcrypt'; // Required for password hashing
 
 const app = express();
 
@@ -51,17 +52,15 @@ async function fetchAdminData() {
   }
 }
 
-// Access data from the 'admin' collection
-Admin.find({})
-  .then(admins => {
-    console.log('Admins:', admins);
-    // Handle retrieved admin data as needed
-  })
-  .catch(err => {
-    console.error(err);
-  });
-
-
+// // Access data from the 'admin' collection
+// Admin.find({})
+//   .then(admins => {
+//     console.log('Admins:', admins);
+//     // Handle retrieved admin data as needed
+//   })
+//   .catch(err => {
+//     console.error(err);
+//   });
 
 
 app.get("/", function(req, res) {
@@ -93,20 +92,36 @@ app.get("/admin_login", function(req, res) {
   });
 });
 
-app.post("/student_login", function(req, res) {
+app.post("/student_login", async function(req, res) {
   console.log(req.body);
-  res.render("success", {
-    userType: "student",
-    opType: "login"
-  });
-  let username = req.body.username;
-  let password = req.body.password;
-  if (username === "admin" && password === "admin") {
-    res.render("success");
-  } else {
-    res.render("signin_page");
+  const entered_username = req.body.username;
+  const entered_password = req.body.password;
+
+  try {
+    // Find the student based on the provided username
+    const student = await Student.findOne({ username: entered_username });
+
+    if (student) {
+      const storedPassword = student.password; // Retrieve stored password from the database
+
+      if (entered_password === storedPassword) {
+        // Passwords match, render success page or perform other actions
+        res.render("success");
+      } else {
+        // Passwords do not match
+        res.render("error");
+      }
+    } else {
+      // Student not found
+      res.render("error");
+    }
+  } catch (error) {
+    // Handle any potential errors that might occur during the process
+    console.error(error);
+    res.render("error");
   }
 });
+
 
 app.post("/student_signup", function(req, res) {
   console.log(req.body);
@@ -128,21 +143,36 @@ app.post("/student_signup", function(req, res) {
     });
 });
 
-app.post("/admin_login", function(req, res) {
+app.post("/admin_login", async function(req, res) {
   console.log(req.body);
-  res.render("success");
+  const entered_username = req.body.username;
+  const entered_password = req.body.password;
+
+  try {
+    // Find the admin based on the provided username
+    const admin = await Admin.findOne({ username: entered_username });
+
+    if (admin) {
+      const storedPassword = admin.password; // Retrieve stored password from the database
+
+      if (entered_password === storedPassword) {
+        // Passwords match, render success page or perform other actions
+        res.render("success");
+      } else {
+        // Passwords do not match
+        res.render("error");
+      }
+    } else {
+      // Admin not found
+      res.render("error");
+    }
+  } catch (error) {
+    // Handle any potential errors that might occur during the process
+    console.error(error);
+    res.render("error");
+  }
 });
 
-
-
-Admin.find({})
-  .then(admins => {
-    console.log('Admins:', admins);
-    // Handle retrieved admin data as needed
-  })
-  .catch(err => {
-    console.error(err);
-  });
 
 // Routes for Student CRUD operations
 
