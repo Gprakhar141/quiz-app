@@ -208,10 +208,10 @@ app.post("/create_quiz", (req, res) => {
     res.redirect('/showAlert');
   });
 });
-// for passing alert message after successful quiz creation
+// for passing alert message after successful operation
 app.get('/showAlert', (req, res) => {
   // Send a response to the client and include a script to show an alert
-  res.send('<script>alert("Quiz created successfully!");</script>');
+  res.send('<script>alert("Success!");</script>');
 });
 
 
