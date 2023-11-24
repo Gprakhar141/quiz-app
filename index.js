@@ -160,7 +160,7 @@ app.post("/admin_login", async function(req, res) {
 
       if (entered_password === storedPassword) {
         // Passwords match, render success page or perform other actions
-        res.render("success");
+         res.render("create_quiz",{showAlert: true});
       } else {
         // Passwords do not match
         res.render("error");
