@@ -195,6 +195,23 @@ app.post("/create_quiz", (req, res) => {
     return jsonData[p];
   });
   // console.log(selectedQuestions);
+  // Convert the array to a JSON string
+  const jsonString = JSON.stringify(selectedQuestions, null, 2);
+
+  // Write the JSON string to a new file or create if it doesn't exist
+  fs.writeFile("./quiz.json", jsonString, { flag: 'w' }, (err) => {
+    if (err) {
+      console.error('Error writing JSON file:', err);
+      return;
+    }
+    console.log('JSON file has been written successfully!');
+    res.redirect('/showAlert');
+  });
+});
+// for passing alert message after successful quiz creation
+app.get('/showAlert', (req, res) => {
+  // Send a response to the client and include a script to show an alert
+  res.send('<script>alert("Quiz created successfully!");</script>');
 });
 
 
