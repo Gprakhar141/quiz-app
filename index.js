@@ -1,6 +1,7 @@
 import express from "express";
 import bodyParser from "body-parser";
 import mongoose from 'mongoose';
+import fs from 'fs';
 //import bcrypt from 'bcrypt'; // Required for password hashing
 
 const app = express();
@@ -52,16 +53,17 @@ async function fetchAdminData() {
   }
 }
 
-// // Access data from the 'admin' collection
-// Admin.find({})
-//   .then(admins => {
-//     console.log('Admins:', admins);
-//     // Handle retrieved admin data as needed
-//   })
-//   .catch(err => {
-//     console.error(err);
-//   });
+// Read the JSON file asynchronously
+fs.readFile("./file.json", 'utf8', (err, data) => {
+  if (err) {
+    console.error('Error reading JSON file:', err);
+    return;
+  }
 
+  const jsonData = JSON.parse(data);
+
+  // Now, jsonData contains the parsed JSON data
+});
 
 app.get("/", function(req, res) {
   res.render("index");
