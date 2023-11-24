@@ -54,13 +54,14 @@ async function fetchAdminData() {
 }
 
 // Read the JSON file asynchronously
+let jsonData;
 fs.readFile("./file.json", 'utf8', (err, data) => {
   if (err) {
     console.error('Error reading JSON file:', err);
     return;
   }
 
-  const jsonData = JSON.parse(data);
+  jsonData = JSON.parse(data);
 
   // Now, jsonData contains the parsed JSON data
 });
