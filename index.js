@@ -176,6 +176,27 @@ app.post("/admin_login", async function(req, res) {
   }
 });
 
+// Routes for geting a created quiz page
+app.get("/create_quiz", (req, res) => {
+  res.render("create_quiz.ejs");
+});
+// Routes to creat a random quiz
+app.post("/create_quiz", (req, res) => {
+  console.log(req.body.quiz_name);
+  let quiz = [];
+  var i = 0;
+  while (i < 5) {
+    const index = (Math.floor(Math.random() * 100)) + 1;  //To generate random indices between 1 to 100
+    quiz.push(index);
+    i++;
+  }
+  let selectedQuestions = [];
+  selectedQuestions = quiz.map((p) => {
+    return jsonData[p];
+  });
+  // console.log(selectedQuestions);
+});
+
 
 // Routes for Student CRUD operations
 
