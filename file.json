@@ -1,0 +1,2432 @@
+[{
+    "_id": {
+      "$oid": "65512dcfec82c81a93d67b0c"
+    },
+    "category": "arts_and_literature",
+    "correctAnswer": "Alice Munro",
+    "incorrectAnswers": [
+      "Ivan Turgenev",
+      "E. T. A. Hoffmann",
+      "Alphonse Daudet"
+    ],
+    "question": {
+      "text": "Which author wrote 'Dance of the Happy Shades And Other Stories'?"
+    },
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "1"
+  },
+  {
+    "_id": {
+      "$oid": "65512e15ec82c81a93d67b10"
+    },
+    "category": "society_and_culture",
+    "correctAnswer": "Hook and loop (or Hook and eye)",
+    "incorrectAnswers": [
+      "Buckles",
+      "Laces",
+      "Zippers"
+    ],
+    "question": {
+      "text": "What do the Amish use to fasten coats and vests?"
+    },
+    "tags": [
+      "clothing",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "2"
+  },
+  {
+    "_id": {
+      "$oid": "65512e37ec82c81a93d67b12"
+    },
+    "category": "history",
+    "correctAnswer": "Nine",
+    "incorrectAnswers": [
+      "Three",
+      "None",
+      "One"
+    ],
+    "question": {
+      "text": "How Many Children Did Queen Victoria Have?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "3"
+  },
+  {
+    "_id": {
+      "$oid": "65512e4dec82c81a93d67b14"
+    },
+    "category": "general_knowledge",
+    "correctAnswer": "Itinerary",
+    "incorrectAnswers": [
+      "List",
+      "Voyage",
+      "Menu"
+    ],
+    "question": {
+      "text": "What is the term for a list of places to visit on a journey?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "4"
+  },
+  {
+    "_id": {
+      "$oid": "65512e79ec82c81a93d67b18"
+    },
+    "category": "society_and_culture",
+    "correctAnswer": "St. Augustine",
+    "incorrectAnswers": [
+      "St. Julius",
+      "St. May",
+      "St. Decembrius"
+    ],
+    "question": {
+      "text": "Which influential historical person was an influential Christian saint and writer, who shaped much of Western Christian thought?"
+    },
+    "tags": [
+      "people",
+      "history",
+      "society_and_culture",
+      "christianity",
+      "philosophy"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "5"
+  },
+  {
+    "_id": {
+      "$oid": "65512e8dec82c81a93d67b1a"
+    },
+    "category": "film_and_tv",
+    "correctAnswer": "Jackie Chan",
+    "incorrectAnswers": [
+      "Jet Li",
+      "Bruce Lee",
+      "Donnie Yen"
+    ],
+    "question": {
+      "text": "Which Chinese action star has broken a number of bones doing stunts and acted in films like 'Drunken Master' and 'Rumble in the Bronx'?"
+    },
+    "tags": [
+      "film_and_tv",
+      "film",
+      "acting"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "6"
+  },
+  {
+    "_id": {
+      "$oid": "65512ea3ec82c81a93d67b1c"
+    },
+    "category": "science",
+    "correctAnswer": "A brace",
+    "incorrectAnswers": [
+      "A murder",
+      "A shoal",
+      "A nye"
+    ],
+    "question": {
+      "text": "What is the word for a group of bucks?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "7"
+  },
+  {
+    "_id": {
+      "$oid": "65512ef7ec82c81a93d67b1e"
+    },
+    "category": "arts_and_literature",
+    "correctAnswer": "Edgar Rice Burroughs",
+    "incorrectAnswers": [
+      "Jack Vance",
+      "George R. R. Martin",
+      "Robert A. Heinlein"
+    ],
+    "question": {
+      "text": "Which author wrote 'Tarzan of the Apes'?"
+    },
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "8"
+  },
+  {
+    "_id": {
+      "$oid": "65512f09ec82c81a93d67b20"
+    },
+    "category": "geography",
+    "correctAnswer": "Ho Chi Minh City",
+    "incorrectAnswers": [
+      "Yangon",
+      "Jakarta",
+      "Chittagong"
+    ],
+    "question": {
+      "text": "Which of these cities is in Vietnam?"
+    },
+    "tags": [
+      "cities",
+      "asia",
+      "southeast_asia",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "9"
+  },
+  {
+    "_id": {
+      "$oid": "65512f1aec82c81a93d67b22"
+    },
+    "category": "geography",
+    "correctAnswer": "Iraq",
+    "incorrectAnswers": [
+      "Peru",
+      "Austria",
+      "Bosnia & Herzegovina"
+    ],
+    "question": {
+      "text": "In which country would you find the UNESCO World Heritage site of The Erbil Citadel?"
+    },
+    "tags": [
+      "tourist_attractions",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false,
+    "ques_id": "10"
+  },
+  {
+    "_id": {
+      "$oid": "65512f31ec82c81a93d67b24"
+    },
+    "category": "geography",
+    "ques_id": "11",
+    "correctAnswer": "France",
+    "incorrectAnswers": [
+      "Luxembourg",
+      "Denmark",
+      "Switzerland"
+    ],
+    "question": {
+      "text": "Which of these countries borders Kingdom of the Netherlands?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512f46ec82c81a93d67b26"
+    },
+    "category": "society_and_culture",
+    "ques_id": "12",
+    "correctAnswer": "Rose",
+    "incorrectAnswers": [
+      "Lily",
+      "Daisy",
+      "Tulip"
+    ],
+    "question": {
+      "text": "What flower has cultural significance for being associated with love?"
+    },
+    "tags": [
+      "society_and_culture",
+      "plants",
+      "symbols",
+      "traditions"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512f77ec82c81a93d67b28"
+    },
+    "category": "food_and_drink",
+    "ques_id": "13",
+    "correctAnswer": "Harvey Wallbanger",
+    "incorrectAnswers": [
+      "Bloody Mary",
+      "Cosmopolitan",
+      "Long Island Iced Tea"
+    ],
+    "question": {
+      "text": "What cocktail is made from vodka, orange juice and Galliano? "
+    },
+    "tags": [
+      "drink",
+      "alcohol",
+      "cocktails",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512f94ec82c81a93d67b2a"
+    },
+    "category": "film_and_tv",
+    "ques_id": "14",
+    "correctAnswer": "Michael Keaton",
+    "incorrectAnswers": [
+      "Simon Pegg",
+      "Toshirō Mifune",
+      "Roger Moore"
+    ],
+    "question": {
+      "text": "Which actor has featured in both Spider-Man: Homecoming and Batman (1989)?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv",
+      "marvel",
+      "dc",
+      "batman"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512fa4ec82c81a93d67b2c"
+    },
+    "category": "music",
+    "ques_id": "15",
+    "correctAnswer": "Bon Jovi",
+    "incorrectAnswers": [
+      "Incubus",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which rock band from the United States released the song 'It's My Life'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512fb6ec82c81a93d67b2e"
+    },
+    "category": "geography",
+    "ques_id": "16",
+    "correctAnswer": "Horyuji Temple",
+    "incorrectAnswers": [
+      "Forbidden City",
+      "Notre Dame Cathedral",
+      "Parthenon"
+    ],
+    "question": {
+      "text": "What is the world's oldest surviving post-and-beam wooden structure?"
+    },
+    "tags": [
+      "architecture",
+      "geography",
+      "tourist_attractions"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65512fc6ec82c81a93d67b30"
+    },
+    "category": "society_and_culture",
+    "ques_id": "17",
+    "correctAnswer": "Original Content",
+    "incorrectAnswers": [
+      "Of Course",
+      "On Chair",
+      "Outclassed"
+    ],
+    "question": {
+      "text": "On internet chats, what do the letters 'OC' mean?"
+    },
+    "tags": [
+      "the_internet",
+      "initials",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513012ec82c81a93d67b32"
+    },
+    "category": "music",
+    "ques_id": "18",
+    "correctAnswer": "Oasis",
+    "incorrectAnswers": [
+      "Goldfrapp",
+      "Kaiser Chiefs",
+      "Jethro Tull"
+    ],
+    "question": {
+      "text": "Which English rock band formed in Manchester in 1991 released the studio album 'Definitely Maybe'?"
+    },
+    "tags": [
+      "manchester",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513023ec82c81a93d67b34"
+    },
+    "category": "history",
+    "ques_id": "19",
+    "correctAnswer": "Ming",
+    "incorrectAnswers": [
+      "Qin",
+      "Han",
+      "Tang"
+    ],
+    "question": {
+      "text": "Which Chinese dynasty lasted from 1368 to 1644?"
+    },
+    "tags": [
+      "china",
+      "leaders",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551304cec82c81a93d67b36"
+    },
+    "category": "geography",
+    "ques_id": "20",
+    "correctAnswer": "Kenya",
+    "incorrectAnswers": [
+      "Cameroon",
+      "Mali",
+      "Senegal"
+    ],
+    "question": {
+      "text": "Which African country's national anthem is called 'Wimbo Wa Taifa' in Swahili, meaning 'anthem of the nation'?"
+    },
+    "tags": [
+      "africa",
+      "songs"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551306aec82c81a93d67b38"
+    },
+    "category": "society_and_culture",
+    "ques_id": "21",
+    "correctAnswer": "Austroasiatic",
+    "incorrectAnswers": [
+      "Uralic",
+      "Sino-Tibetan",
+      "Kra–Dai"
+    ],
+    "question": {
+      "text": "The language 'Vietnamese' belongs to which language family?"
+    },
+    "tags": [
+      "language",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551309bec82c81a93d67b3a"
+    },
+    "category": "food_and_drink",
+    "ques_id": "22",
+    "correctAnswer": "South America",
+    "incorrectAnswers": [
+      "Europe",
+      "The Middle East",
+      "China"
+    ],
+    "question": {
+      "text": "From which part of the world do sweet potatoes originate?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655130aeec82c81a93d67b3c"
+    },
+    "category": "society_and_culture",
+    "ques_id": "23",
+    "correctAnswer": "Javanese",
+    "incorrectAnswers": [
+      "Hausa",
+      "Mandarin",
+      "Quechua"
+    ],
+    "question": {
+      "text": "Which of these languages would you find spoken in Indonesia?"
+    },
+    "tags": [
+      "language",
+      "linguistics",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655130c1ec82c81a93d67b3e"
+    },
+    "category": "history",
+    "ques_id": "24",
+    "correctAnswer": "1990",
+    "incorrectAnswers": [
+      "1984",
+      "1994",
+      "1999"
+    ],
+    "question": {
+      "text": "When did the demolition of the Berlin wall begin?"
+    },
+    "tags": [
+      "events",
+      "cold_war",
+      "germany",
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655130d3ec82c81a93d67b40"
+    },
+    "category": "food_and_drink",
+    "ques_id": "25",
+    "correctAnswer": "The Netherlands",
+    "incorrectAnswers": [
+      "Belgium",
+      "Denmark",
+      "Austria"
+    ],
+    "question": {
+      "text": "From What Country Does Advocaat Originate?"
+    },
+    "tags": [
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655130e3ec82c81a93d67b42"
+    },
+    "category": "history",
+    "ques_id": "26",
+    "correctAnswer": "Jackie kennedy",
+    "incorrectAnswers": [
+      "Michelle Obama",
+      "Mary Todd Lincoln",
+      "Barbara Bush"
+    ],
+    "question": {
+      "text": "Who was the first First Lady to be received privately by the Pope? "
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551316eec82c81a93d67b44"
+    },
+    "category": "history",
+    "ques_id": "27",
+    "correctAnswer": "Sir Francis Drake",
+    "incorrectAnswers": [
+      "Horatio Nelson",
+      "George Rodney",
+      "John Jervis"
+    ],
+    "question": {
+      "text": "Who Played Bowls Before Engaging The Spanish Armada?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551318aec82c81a93d67b46"
+    },
+    "category": "food_and_drink",
+    "ques_id": "28",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Ghana",
+      "Panama",
+      "Nepal"
+    ],
+    "question": {
+      "text": "In which country is grappa a popular drink?"
+    },
+    "tags": [
+      "drink",
+      "alcohol"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551319dec82c81a93d67b48"
+    },
+    "category": "society_and_culture",
+    "ques_id": "29",
+    "correctAnswer": "Giulietta",
+    "incorrectAnswers": [
+      "Polo",
+      "Camry",
+      "Quattro"
+    ],
+    "question": {
+      "text": "Which of these is a model of car made by Alfa Romeo?"
+    },
+    "tags": [
+      "motoring",
+      "business",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655131b1ec82c81a93d67b4a"
+    },
+    "category": "history",
+    "ques_id": "30",
+    "correctAnswer": "Renaissance",
+    "incorrectAnswers": [
+      "Industrial Revolution",
+      "Classical Period",
+      "Age of Discovery"
+    ],
+    "question": {
+      "text": "What is the name given to the period of European history between the Middle Ages and modernity?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655131c3ec82c81a93d67b4c"
+    },
+    "category": "history",
+    "ques_id": "31",
+    "correctAnswer": "Sandwich Islands",
+    "incorrectAnswers": [
+      "James Islands",
+      "Victoria Islands",
+      "Brittania Islands"
+    ],
+    "question": {
+      "text": "When Cook Discovered The Hawaiian Islands What Did He Name Them?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655131d4ec82c81a93d67b4e"
+    },
+    "category": "music",
+    "ques_id": "32",
+    "correctAnswer": "The Doors",
+    "incorrectAnswers": [
+      "Styx",
+      "The Pussycat Dolls",
+      "Three 6 Mafia"
+    ],
+    "question": {
+      "text": "Which American rock band released the album 'Waiting for the Sun'?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655131e9ec82c81a93d67b50"
+    },
+    "category": "geography",
+    "ques_id": "33",
+    "correctAnswer": "Philadelphia",
+    "incorrectAnswers": [
+      "San Francisco",
+      "Denver",
+      "Atlanta"
+    ],
+    "question": {
+      "text": "Where is the city of Brotherly Love?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513202ec82c81a93d67b52"
+    },
+    "category": "geography",
+    "ques_id": "34",
+    "correctAnswer": "Brandenburg ",
+    "incorrectAnswers": [
+      "Bavaria",
+      "Saxony",
+      "Bremen"
+    ],
+    "question": {
+      "text": "Which German federal state surrounds the city of Berlin?"
+    },
+    "tags": [
+      "germany",
+      "cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551322dec82c81a93d67b54"
+    },
+    "category": "film_and_tv",
+    "ques_id": "35",
+    "correctAnswer": "The Bridge on the River Kwai",
+    "incorrectAnswers": [
+      "Goodfellas",
+      "The 400 Blows",
+      "Joker"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'POWs are forced to build a railway, not knowing that allies are planning to destroy it.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551328dec82c81a93d67b56"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "36",
+    "correctAnswer": "Aldous Huxley",
+    "incorrectAnswers": [
+      "George Orwell",
+      "Ernest Hemingway",
+      "TS Elliot"
+    ],
+    "question": {
+      "text": "Who wrote the book 'Brave New World'?"
+    },
+    "tags": [
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655132a4ec82c81a93d67b58"
+    },
+    "category": "history",
+    "ques_id": "37",
+    "correctAnswer": "0",
+    "incorrectAnswers": [
+      "1",
+      "30",
+      "19"
+    ],
+    "question": {
+      "text": "How many witches were burned at the stake in Salem, Massachusetts?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655132c1ec82c81a93d67b5a"
+    },
+    "category": "science",
+    "ques_id": "38",
+    "correctAnswer": "Stegosaurus",
+    "incorrectAnswers": [
+      "Tyrannosaurus Rex",
+      "Diplodocus",
+      "Ankylosaurus"
+    ],
+    "question": {
+      "text": "Which dinosaur had a long, spiked tail?"
+    },
+    "tags": [
+      "science",
+      "dinosaurs",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655132d7ec82c81a93d67b5c"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "39",
+    "correctAnswer": "J. K. Rowling",
+    "incorrectAnswers": [
+      "Christopher Tolkien",
+      "Philip Pullman",
+      "C. S. Lewis"
+    ],
+    "question": {
+      "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+    },
+    "tags": [
+      "harry_potter",
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655132e9ec82c81a93d67b5e"
+    },
+    "category": "history",
+    "ques_id": "40",
+    "correctAnswer": "Treaties of Paris",
+    "incorrectAnswers": [
+      "Treaties of Vienna",
+      "Treaties of London",
+      "Treaties of Berlin"
+    ],
+    "question": {
+      "text": "What treaties ended the Napoleonic wars?"
+    },
+    "tags": [
+      "history",
+      "napoleonic_wars",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513301ec82c81a93d67b60"
+    },
+    "category": "geography",
+    "ques_id": "41",
+    "correctAnswer": "Nuku'alofa",
+    "incorrectAnswers": [
+      "Dhaka",
+      "Vaduz",
+      "Saint George's"
+    ],
+    "question": {
+      "text": "What is the capital city of Tonga?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6a"
+    },
+    "category": "science",
+    "ques_id": "42",
+    "correctAnswer": "Stegosaurus",
+    "incorrectAnswers": [
+      "Tyrannosaurus Rex",
+      "Diplodocus",
+      "Ankylosaurus"
+    ],
+    "question": {
+      "text": "Which dinosaur had a long, spiked tail?"
+    },
+    "tags": [
+      "science",
+      "dinosaurs",
+      "nature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6b"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "43",
+    "correctAnswer": "J. K. Rowling",
+    "incorrectAnswers": [
+      "Christopher Tolkien",
+      "Philip Pullman",
+      "C. S. Lewis"
+    ],
+    "question": {
+      "text": "Which author wrote 'Harry Potter and the Order of the Phoenix'?"
+    },
+    "tags": [
+      "harry_potter",
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6c"
+    },
+    "category": "history",
+    "ques_id": "44",
+    "correctAnswer": "Treaties of Paris",
+    "incorrectAnswers": [
+      "Treaties of Vienna",
+      "Treaties of London",
+      "Treaties of Berlin"
+    ],
+    "question": {
+      "text": "What treaties ended the Napoleonic wars?"
+    },
+    "tags": [
+      "history",
+      "napoleonic_wars",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6d"
+    },
+    "category": "geography",
+    "ques_id": "45",
+    "correctAnswer": "Nuku'alofa",
+    "incorrectAnswers": [
+      "Dhaka",
+      "Vaduz",
+      "Saint George's"
+    ],
+    "question": {
+      "text": "What is the capital city of Tonga?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6e"
+    },
+    "category": "music",
+    "ques_id": "46",
+    "correctAnswer": "'Rapper's Delight' by Sugarhill Gang",
+    "incorrectAnswers": [
+      "'Man! I Feel Like a Woman!' by Shania Twain",
+      "'You're So Vain' by Carly Simon",
+      "'Gimme More' by Britney Spears"
+    ],
+    "question": {
+      "text": "Which song begins with the lyrics: 'I said a hip-hop, the hippie the hippie / To the hip, hip hop you don't stop / Rock it to the bang bang boogie / Say up jump the boogie to the rhythm of the boogie, the beat...'?"
+    },
+    "tags": [
+      "rap_music",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b6f"
+    },
+    "category": "general_knowledge",
+    "ques_id": "47",
+    "correctAnswer": "Bibble",
+    "incorrectAnswers": [
+      "Valetudinarian",
+      "Winklepicker",
+      "Donkey Engine"
+    ],
+    "question": {
+      "text": "Which word is defined as 'to drink often; to eat and/or drink noisily'?"
+    },
+    "tags": [
+      "words",
+      "general_knowledge"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b70"
+    },
+    "category": "geography",
+    "ques_id": "48",
+    "correctAnswer": "Tegucigalpa",
+    "incorrectAnswers": [
+      "Bangkok",
+      "San Salvador",
+      "Kinshasa"
+    ],
+    "question": {
+      "text": "What is the capital city of Honduras?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b71"
+    },
+    "category": "general_knowledge",
+    "ques_id": "49",
+    "correctAnswer": "Annex",
+    "incorrectAnswers": [
+      "Appendix",
+      "Addendum",
+      "Supplement"
+    ],
+    "question": {
+      "text": "What is the word for an auxiliary building near the main one?"
+    },
+    "tags": [
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b72"
+    },
+    "category": "geography",
+    "ques_id": "50",
+    "correctAnswer": "Lagos",
+    "incorrectAnswers": [
+      "Casablanca",
+      "Khartoum",
+      "Luanda"
+    ],
+    "question": {
+      "text": "Which of these cities is in Nigeria?"
+    },
+    "tags": [
+      "cities",
+      "africa",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135beec82c81a93d67b73"
+    },
+    "category": "geography",
+    "ques_id": "51",
+    "correctAnswer": "Asia",
+    "incorrectAnswers": [
+      "South America",
+      "Oceania",
+      "Europe"
+    ],
+    "question": {
+      "text": "The country of Bahrain is on which continent?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b74"
+    },
+    "category": "geography",
+    "ques_id": "52",
+    "correctAnswer": "Oceania",
+    "incorrectAnswers": [
+      "South America",
+      "Europe",
+      "Asia"
+    ],
+    "question": {
+      "text": "The country of Kiribati is on which continent?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b75"
+    },
+    "category": "geography",
+    "ques_id": "53",
+    "correctAnswer": "Iraq",
+    "incorrectAnswers": [
+      "Gabon",
+      "Ireland",
+      "Bangladesh"
+    ],
+    "question": {
+      "text": "Which of these countries has black on its flag?"
+    },
+    "tags": [
+      "flags",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b76"
+    },
+    "category": "film_and_tv",
+    "ques_id": "54",
+    "correctAnswer": "David Yates",
+    "incorrectAnswers": [
+      "Steven Spielberg",
+      "Woody Allen",
+      "Martin Scorsese"
+    ],
+    "question": {
+      "text": "Which director directed Harry Potter and the Order of the Phoenix?"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b77"
+    },
+    "category": "music",
+    "ques_id": "55",
+    "correctAnswer": "Michael Jackson",
+    "incorrectAnswers": [
+      "Nicki Minaj",
+      "Neil Young",
+      "Eric Clapton"
+    ],
+    "question": {
+      "text": "Which American musician sung 'Rock with You'?"
+    },
+    "tags": [
+      "songs",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b78"
+    },
+    "category": "film_and_tv",
+    "ques_id": "56",
+    "correctAnswer": "Clint Eastwood",
+    "incorrectAnswers": [
+      "Matt Damon",
+      "Robert De Niro",
+      "Sean Connery"
+    ],
+    "question": {
+      "text": "Which actor has featured in films including The Good, the Bad and the Ugly and Million Dollar Baby?"
+    },
+    "tags": [
+      "film",
+      "acting",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b79"
+    },
+    "category": "science",
+    "ques_id": "57",
+    "correctAnswer": "Seismologist",
+    "incorrectAnswers": [
+      "Geologist",
+      "Barologist",
+      "Gerologist"
+    ],
+    "question": {
+      "text": "What Do You Call A Person Who Studies Earthquakes?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b7a"
+    },
+    "category": "geography",
+    "ques_id": "58",
+    "correctAnswer": "Addis Ababa",
+    "incorrectAnswers": [
+      "Bishkek",
+      "Chisinau",
+      "Sana'a"
+    ],
+    "question": {
+      "text": "What is the capital city of Ethiopia?"
+    },
+    "tags": [
+      "africa",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b7b"
+    },
+    "category": "sport_and_leisure",
+    "ques_id": "59",
+    "correctAnswer": "Jim Thorpe",
+    "incorrectAnswers": [
+      "Jesse Owens",
+      "Carl Lewis",
+      "Muhammad Ali"
+    ],
+    "question": {
+      "text": "Which American athlete won both the pentathlon and decathlon in the 1912 Summer Olympics in Stockholm?"
+    },
+    "tags": [
+      "sport",
+      "olympics"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b7c"
+    },
+    "category": "society_and_culture",
+    "ques_id": "60",
+    "correctAnswer": "Duolingo",
+    "incorrectAnswers": [
+      "Japan Airlines",
+      "Giorgio Armani",
+      "Slazenger"
+    ],
+    "question": {
+      "text": "Which of these brands has a owl on its logo?"
+    },
+    "tags": [
+      "society_and_culture",
+      "business",
+      "marketing",
+      "animals",
+      "birds",
+      "symbols",
+      "logos"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b7d"
+    },
+    "category": "film_and_tv",
+    "ques_id": "61",
+    "correctAnswer": "A suburban father has a mid-life crisis after becoming infatuated with his daughter's friend.",
+    "incorrectAnswers": [
+      "A mother personally challenges the local authorities to solve her daughter's murder.",
+      "A surgeon rescues a disfigured man who is mistreated while scraping a living as a side-show freak.",
+      "A woman works with a hardened boxing trainer to become a professional."
+    ],
+    "question": {
+      "text": "What is the plot of the movie American Beauty?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b7e"
+    },
+    "category": "history",
+    "ques_id": "62",
+    "correctAnswer": "1967",
+    "incorrectAnswers": [
+      "1922",
+      "1869",
+      "1894"
+    ],
+    "question": {
+      "text": "In which year did the Six-Day War take place?"
+    },
+    "tags": [
+      "history",
+      "wars"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b7f"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "63",
+    "correctAnswer": "James Joyce",
+    "incorrectAnswers": [
+      "Oscar Wilde",
+      "Kurt Vonnegut",
+      "Charles Dickens"
+    ],
+    "question": {
+      "text": "Which author wrote Ulysses, Giacomo Joyce, Dubliners and Finnegans Wake?"
+    },
+    "tags": [
+      "arts_and_literature",
+      "literature",
+      "classic_novels",
+      "people"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b80"
+    },
+    "category": "film_and_tv",
+    "ques_id": "64",
+    "correctAnswer": "The Shape of Water",
+    "incorrectAnswers": [
+      "Call Me by Your Name",
+      "Darkest Hour",
+      "Dunkirk"
+    ],
+    "question": {
+      "text": "Which film won the Academy Award for Best Picture in 2017?"
+    },
+    "tags": [
+      "academy_awards",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b81"
+    },
+    "category": "history",
+    "ques_id": "65",
+    "correctAnswer": "Lichtenstein",
+    "incorrectAnswers": [
+      "Monaco",
+      "San Marino",
+      "Luxembourg"
+    ],
+    "question": {
+      "text": "Holy Roman Emperor Charles VI created which principality in 1719?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b82"
+    },
+    "category": "science",
+    "ques_id": "66",
+    "correctAnswer": "A Pen",
+    "incorrectAnswers": [
+      "A Jill",
+      "A Ewe",
+      "A Vixen"
+    ],
+    "question": {
+      "text": "A female swan is known as what?"
+    },
+    "tags": [
+      "animals",
+      "biology",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b83"
+    },
+    "category": "geography",
+    "ques_id": "67",
+    "correctAnswer": "Lena River",
+    "incorrectAnswers": [
+      "Ob River",
+      "Yenisei River",
+      "Volga River"
+    ],
+    "question": {
+      "text": "What is the name of the longest river in Russia?"
+    },
+    "tags": [
+      "russia",
+      "rivers",
+      "bodies_of_water",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b84"
+    },
+    "category": "film_and_tv",
+    "ques_id": "68",
+    "correctAnswer": "Downfall",
+    "incorrectAnswers": [
+      "Platoon",
+      "The Green Mile",
+      "Up"
+    ],
+    "question": {
+      "text": "Name the movie that matches the following plot summary: 'The final secretary for Adolf Hitler tells of the Nazi dictator's final days.'"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b85"
+    },
+    "category": "history",
+    "ques_id": "69",
+    "correctAnswer": "30 Years",
+    "incorrectAnswers": [
+      "34 Years",
+      "20 Years",
+      "18 Months"
+    ],
+    "question": {
+      "text": "For how long did the 30 Years War last?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b86"
+    },
+    "category": "science",
+    "ques_id": "70",
+    "correctAnswer": "Black",
+    "incorrectAnswers": [
+      "White",
+      "Red",
+      "Brown"
+    ],
+    "question": {
+      "text": "What color spots has the common ladybird?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513604ec82c81a93d67b87"
+    },
+    "category": "geography",
+    "ques_id": "71",
+    "correctAnswer": "Italy",
+    "incorrectAnswers": [
+      "Iraq",
+      "Germany",
+      "Russia"
+    ],
+    "question": {
+      "text": "In which country would you find Mount Etna?"
+    },
+    "tags": [
+      "mountains",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b88"
+    },
+    "category": "music",
+    "ques_id": "72",
+    "correctAnswer": "Ice Ice Baby",
+    "incorrectAnswers": [
+      "I Want Candy",
+      "Baby Got Back",
+      "We're Not Gonna Take It"
+    ],
+    "question": {
+      "text": "Vanilla Ice had a one hit wonder in 1990 with which song?"
+    },
+    "tags": [
+      "songs",
+      "one_hit_wonders",
+      "1990's",
+      "general_knowledge",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b89"
+    },
+    "category": "society_and_culture",
+    "ques_id": "73",
+    "correctAnswer": "Four",
+    "incorrectAnswers": [
+      "One",
+      "Five",
+      "Three"
+    ],
+    "question": {
+      "text": "In German, what is the meaning of the word 'vier'?"
+    },
+    "tags": [
+      "language",
+      "translations",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8a"
+    },
+    "category": "film_and_tv",
+    "ques_id": "74",
+    "correctAnswer": "Texas Chainsaw Massacre",
+    "incorrectAnswers": [
+      "Halloween",
+      "Nightmare on Elm Street",
+      "The Blair Witch Project"
+    ],
+    "question": {
+      "text": "With Which Horror Film Would You Associate The Character Of Leatherface"
+    },
+    "tags": [
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8b"
+    },
+    "category": "food_and_drink",
+    "ques_id": "75",
+    "correctAnswer": "Strudel",
+    "incorrectAnswers": [
+      "Tart",
+      "Croissant",
+      "Custard Pie"
+    ],
+    "question": {
+      "text": "Which of these is a layered pastry traditionally made with a rich, sweet filling?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink",
+      "pastry",
+      "baking",
+      "desserts"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8c"
+    },
+    "category": "geography",
+    "ques_id": "76",
+    "correctAnswer": "Rajasthan",
+    "incorrectAnswers": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "question": {
+      "text": "Which is the largest state in India?"
+    },
+    "tags": [
+      "india",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8d"
+    },
+    "category": "geography",
+    "ques_id": "77",
+    "correctAnswer": "Khartoum",
+    "incorrectAnswers": [
+      "Nur-Sultan",
+      "Bratislava",
+      "Rabat"
+    ],
+    "question": {
+      "text": "What is the capital city of Sudan?"
+    },
+    "tags": [
+      "africa",
+      "capital_cities",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8e"
+    },
+    "category": "music",
+    "ques_id": "78",
+    "correctAnswer": "The Pixies",
+    "incorrectAnswers": [
+      "Bob Marley and The Wailers",
+      "Otis Redding",
+      "Joni Mitchell"
+    ],
+    "question": {
+      "text": "Which artist first recorded 'Where Is My Mind', which was later covered by Tkay Maidza?"
+    },
+    "tags": [
+      "music",
+      "cover_song",
+      "songs",
+      "musicians"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8f"
+    },
+    "category": "society_and_culture",
+    "ques_id": "79",
+    "correctAnswer": "Ghosting",
+    "incorrectAnswers": [
+      "Dropping",
+      "Vanishing",
+      "Negging"
+    ],
+    "question": {
+      "text": "In modern slang, what is the term for abruptly cutting off all communication, especially with a romantic partner?"
+    },
+    "tags": [
+      "society_and_culture",
+      "slang",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b90"
+    },
+    "category": "geography",
+    "ques_id": "80",
+    "correctAnswer": "Red with five yellow stars in the top left.",
+    "incorrectAnswers": [
+      "Blue with a yellow cross extending to the edges.",
+      "Red with a black two headed eagle in the center.",
+      "Green, with large white script and a sword."
+    ],
+    "question": {
+      "text": "What does the flag of China look like?"
+    },
+    "tags": [
+      "flags",
+      "china",
+      "asia",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b91"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "81",
+    "correctAnswer": "Emily Brontë",
+    "incorrectAnswers": [
+      "Oscar Wilde",
+      "H. Rider Haggard",
+      "Percy Bysshe Shelley"
+    ],
+    "question": {
+      "text": "Which author wrote 'Wuthering Heights'?"
+    },
+    "tags": [
+      "literature",
+      "classic_novels",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b92"
+    },
+    "category": "society_and_culture",
+    "ques_id": "82",
+    "correctAnswer": "Honda",
+    "incorrectAnswers": [
+      "Mazda",
+      "Jaguar",
+      "Aston Martin"
+    ],
+    "question": {
+      "text": "Which motoring brand is associated with the marketing slogan 'The Power of Dreams'?"
+    },
+    "tags": [
+      "business",
+      "marketing",
+      "motoring",
+      "society_and_culture"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b93"
+    },
+    "category": "film_and_tv",
+    "ques_id": "83",
+    "correctAnswer": "Citizen Kane",
+    "incorrectAnswers": [
+      "The Godfather",
+      "Gone with the Wind",
+      "Casablanca"
+    ],
+    "question": {
+      "text": "What is the name of the 1941 film that topped the AFI's 1998 list of the 100 greatest American films?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b94"
+    },
+    "category": "film_and_tv",
+    "ques_id": "84",
+    "correctAnswer": "A law enforcement agent pursues four replicants who have returned to Earth to find their creator.",
+    "incorrectAnswers": [
+      "A man houses over a thousand Tutsi refugees during their struggle against the Hutu militia.",
+      "When a serial killer murders key political figures, a vigilante is forced to intervene.",
+      "An insurance representative lets a housewife seduce him into a scheme of insurance fraud and murder."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Blade Runner?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b95"
+    },
+    "category": "food_and_drink",
+    "ques_id": "85",
+    "correctAnswer": "Kahlua ",
+    "incorrectAnswers": [
+      "Advocaat",
+      "Baileys",
+      "Limoncello"
+    ],
+    "question": {
+      "text": "White Russian Cocktails Are Made From Milk, Vodka And _______"
+    },
+    "tags": [
+      "drink",
+      "cocktails",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b96"
+    },
+    "category": "geography",
+    "ques_id": "86",
+    "correctAnswer": "Nouakchott",
+    "incorrectAnswers": [
+      "Bamako",
+      "Tallinn",
+      "Mogadishu"
+    ],
+    "question": {
+      "text": "What is the capital city of Mauritania?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b97"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "87",
+    "correctAnswer": "Pride and Prejudice",
+    "incorrectAnswers": [
+      "The Fault in Our Stars",
+      "Ship of Fools",
+      "War and Peace"
+    ],
+    "question": {
+      "text": "In which book does 'Lady Catherine de Bourgh' appear?"
+    },
+    "tags": [
+      "literature",
+      "fictitious_characters",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b98"
+    },
+    "category": "geography",
+    "ques_id": "88",
+    "correctAnswer": "The Alps",
+    "incorrectAnswers": [
+      "The Pyrenees",
+      "The Urals",
+      "The Himalayas"
+    ],
+    "question": {
+      "text": "What is the name of the European mountain range whose glaciers formed lakes like Como and Constance?"
+    },
+    "tags": [
+      "mountains",
+      "lakes",
+      "europe",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b99"
+    },
+    "category": "society_and_culture",
+    "ques_id": "89",
+    "correctAnswer": "Xenophobia",
+    "incorrectAnswers": [
+      "Acrophobia",
+      "Claustrophobia",
+      "Arachnophobia"
+    ],
+    "question": {
+      "text": "What word refers to the fear of people from other cultures?"
+    },
+    "tags": [
+      "society_and_culture",
+      "words"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b9a"
+    },
+    "category": "food_and_drink",
+    "ques_id": "90",
+    "correctAnswer": "The Middle East",
+    "incorrectAnswers": [
+      "India",
+      "Central America",
+      "Africa"
+    ],
+    "question": {
+      "text": "Where in the world are figs originally from?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513638ec82c81a93d67b9b"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "91",
+    "correctAnswer": "Edgar Rice Burroughs",
+    "incorrectAnswers": [
+      "Jack Vance",
+      "George R. R. Martin",
+      "Robert A. Heinlein"
+    ],
+    "question": {
+      "text": "Which author wrote 'Pellucidar heptalogy'?"
+    },
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67b9c"
+    },
+    "category": "film_and_tv",
+    "ques_id": "92",
+    "correctAnswer": "Jaye Davidson",
+    "incorrectAnswers": [
+      "Dennis Hopper",
+      "Sean Penn",
+      "Samuel L. Jackson"
+    ],
+    "question": {
+      "text": "Which actor played the role of Dil in The Crying Game?"
+    },
+    "tags": [
+      "people",
+      "acting",
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67b9d"
+    },
+    "category": "food_and_drink",
+    "ques_id": "93",
+    "correctAnswer": "Whey",
+    "incorrectAnswers": [
+      "Creatine",
+      "Oodle",
+      "Lactil"
+    ],
+    "question": {
+      "text": "What is the name given to the watery part of milk left after making cheese?"
+    },
+    "tags": [
+      "food",
+      "food_and_drink"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67b9e"
+    },
+    "category": "science",
+    "ques_id": "94",
+    "correctAnswer": "drugs",
+    "incorrectAnswers": [
+      "the scientific study of muscles",
+      "animal diseases",
+      "museum management"
+    ],
+    "question": {
+      "text": "What is Pharmacology the study of?"
+    },
+    "tags": [
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67b9f"
+    },
+    "category": "music",
+    "ques_id": "95",
+    "correctAnswer": "Mandolin",
+    "incorrectAnswers": [
+      "French Horn",
+      "Bugle",
+      "Cowbell"
+    ],
+    "question": {
+      "text": "Which of these is a stringed instrument?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67ba0"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "96",
+    "correctAnswer": "The Hobbit",
+    "incorrectAnswers": [
+      "Charlotte's Web",
+      "Alice's Adventures in Wonderland",
+      "Bluebeard"
+    ],
+    "question": {
+      "text": "Which piece of written work starts with the line 'In a hole in the ground there lived a hobbit.'?"
+    },
+    "tags": [
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67ba1"
+    },
+    "category": "music",
+    "ques_id": "97",
+    "correctAnswer": "Rihanna",
+    "incorrectAnswers": [
+      "Drake",
+      "Nicki Minaj",
+      "Ricky Martin"
+    ],
+    "question": {
+      "text": "Which singer released the song 'S&M'?"
+    },
+    "tags": [
+      "songs",
+      "musicians",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "easy",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67ba2"
+    },
+    "category": "music",
+    "ques_id": "98",
+    "correctAnswer": "Best Shot",
+    "incorrectAnswers": [
+      "Rhythm Stick",
+      "Lovin'",
+      "Poison Arrow"
+    ],
+    "question": {
+      "text": "Pat Benatar Asked You To 'Hit Me With Your ________'"
+    },
+    "tags": [
+      "songs",
+      "lyrics",
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67ba3"
+    },
+    "category": "science",
+    "ques_id": "99",
+    "correctAnswer": "Absolute zero",
+    "incorrectAnswers": [
+      "Freezing point",
+      "Boiling point",
+      "The point of no return"
+    ],
+    "question": {
+      "text": "What scientific term refers to a temperature of -273 Celsius?"
+    },
+    "tags": [
+      "physics",
+      "science"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67ba4"
+    },
+    "category": "film_and_tv",
+    "ques_id": "100",
+    "correctAnswer": "A group of low-level criminals fight to track down a priceless stolen diamond.",
+    "incorrectAnswers": [
+      "A research team in Antarctica is hunted by a shape-shifting alien.",
+      "When two girls move to the country, they have adventures with the forest spirits who live nearby.",
+      "In order to power the city, beasts have to scare children so that they scream."
+    ],
+    "question": {
+      "text": "What is the plot of the movie Snatch?"
+    },
+    "tags": [
+      "film",
+      "film_and_tv"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  }]
