@@ -1,5 +1,10 @@
 <%- include("header")-%>
 <body>
+    <% if(showAlert) { %>
+    <script>
+        alert('Login Successful!);
+    </script>
+    <% } %>
     <form action="/quiz_window" method="post">
         <label for="quiz_name">Enter title of quiz: </label>
         <input type="text" name="quiz_name" id="quiz_name" autocomplete="off">
