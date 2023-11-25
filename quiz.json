@@ -1,0 +1,119 @@
+[
+  {
+    "_id": {
+      "$oid": "655132a4ec82c81a93d67b58"
+    },
+    "category": "history",
+    "ques_id": "37",
+    "correctAnswer": "0",
+    "incorrectAnswers": [
+      "1",
+      "30",
+      "19"
+    ],
+    "question": {
+      "text": "How many witches were burned at the stake in Salem, Massachusetts?"
+    },
+    "tags": [
+      "history"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "655135eaec82c81a93d67b74"
+    },
+    "category": "geography",
+    "ques_id": "52",
+    "correctAnswer": "Oceania",
+    "incorrectAnswers": [
+      "South America",
+      "Europe",
+      "Asia"
+    ],
+    "question": {
+      "text": "The country of Kiribati is on which continent?"
+    },
+    "tags": [
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "65513620ec82c81a93d67b8c"
+    },
+    "category": "geography",
+    "ques_id": "76",
+    "correctAnswer": "Rajasthan",
+    "incorrectAnswers": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Uttar Pradesh"
+    ],
+    "question": {
+      "text": "Which is the largest state in India?"
+    },
+    "tags": [
+      "india",
+      "geography"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551328dec82c81a93d67b56"
+    },
+    "category": "arts_and_literature",
+    "ques_id": "36",
+    "correctAnswer": "Aldous Huxley",
+    "incorrectAnswers": [
+      "George Orwell",
+      "Ernest Hemingway",
+      "TS Elliot"
+    ],
+    "question": {
+      "text": "Who wrote the book 'Brave New World'?"
+    },
+    "tags": [
+      "literature",
+      "arts_and_literature"
+    ],
+    "type": "text_choice",
+    "difficulty": "hard",
+    "regions": [],
+    "isNiche": false
+  },
+  {
+    "_id": {
+      "$oid": "6551366dec82c81a93d67b9f"
+    },
+    "category": "music",
+    "ques_id": "95",
+    "correctAnswer": "Mandolin",
+    "incorrectAnswers": [
+      "French Horn",
+      "Bugle",
+      "Cowbell"
+    ],
+    "question": {
+      "text": "Which of these is a stringed instrument?"
+    },
+    "tags": [
+      "music"
+    ],
+    "type": "text_choice",
+    "difficulty": "medium",
+    "regions": [],
+    "isNiche": false
+  }
+]
