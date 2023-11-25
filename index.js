@@ -118,8 +118,8 @@ app.post("/student_login", async function(req, res) {
       const storedPassword = student.password; // Retrieve stored password from the database
 
       if (entered_password === storedPassword) {
-        // Passwords match, render success page or perform other actions
-        res.render("success");
+        // Passwords match, render quiz_window
+        res.render("quiz_window",{quiz_questions:finalData});
       } else {
         // Passwords do not match
         res.render("error");
