@@ -1,0 +1,22 @@
+<%- include("header") %>
+<body>
+    <h1>START THE QUIZ</h1>
+    <div class="ques_container">
+        <% for(let i=0; i<quiz_questions.length; i++) { %>
+            <div class="ques">
+                <p><%= quiz_questions[i].question.text %></p>
+                <input type="checkbox" name="op1" id="op1">
+                <label for="opt1"><%= quiz_questions[i].incorrectAnswers[0] %></label><br>
+                <input type="checkbox" name="op2" id="op2">
+                <label for="opt2"><%= quiz_questions[i].incorrectAnswers[1] %></label><br>
+                <input type="checkbox" name="op3" id="op3">
+                <label for="opt3"><%= quiz_questions[i].incorrectAnswers[2] %></label><br>
+                <input type="checkbox" name="op4" id="op4">
+                <label for="opt4"><%= quiz_questions[i].correctAnswer %></label><br>
+            </div>
+        <% } %>
+    </div>
+    <button type="submit">SUBMIT ANSWERS</button>
+    <%- include("footer") %>
+</body>
+
