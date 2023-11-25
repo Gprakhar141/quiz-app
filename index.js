@@ -138,7 +138,7 @@ app.post("/student_signup", function(req, res) {
 
   newStudent.save()
     .then(() => {
-      res.render("success");
+      res.render("/showAlert");
     })
     .catch(error => {
       console.error(error);
