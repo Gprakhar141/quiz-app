@@ -54,7 +54,7 @@ async function fetchAdminData() {
 }
 
 // Read the JSON file asynchronously
-let jsonData;
+let jsonData,finalData;
 fs.readFile("./file.json", 'utf8', (err, data) => {
   if (err) {
     console.error('Error reading JSON file:', err);
@@ -64,6 +64,16 @@ fs.readFile("./file.json", 'utf8', (err, data) => {
   jsonData = JSON.parse(data);
 
   // Now, jsonData contains the parsed JSON data
+});
+//To extract the 5 selected questions from the quiz.json
+fs.readFile('./quiz.json', 'utf8', (err, data) => {
+  if (err) {
+    console.error('Error reading JSON file:', err);
+    return res.status(500).send('Internal Server Error');
+  }
+
+  finalData = JSON.parse(data);
+
 });
 
 app.get("/", function(req, res) {
